@@ -1,5 +1,7 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  
+
 }
 
 img {
@@ -24,3 +26,20 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*attempt*/
+body {
+  text-align: center;
+}
+.title {
+margin-bottom: 32px;
+}
+  
+.plants { 
+  display:flex;
+  justify-content: center ;
+  gap: 52px;
+}
+.berry1 {
+  max-width: 200px;
+  }
